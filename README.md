@@ -6,5 +6,4 @@ This project is based on internationanl monetary currency converter and digital 
 
 Give me a star ....It motivates me further to do more projects....Clone and use it
 
-![Screenshot 2022-02-07 114755](https://user-images.githubusercontent.com/66834895/152746469-0f3da64d-767f-4142-8efb-24f1bf9902bb.jpg)
-
+![Currency-Converter-Apps](https://user-images.githubusercontent.com/66834895/152747483-8752212c-a8f0-4cba-8d6d-890cc861c88a.jpg)
